@@ -1,0 +1,20 @@
+.rubik-beastly-regular{
+    font-family: ".rubik-beastly", system-ui;
+}
+.container{
+    background-color: aquamarine;
+    width: 480px;
+    height: 150px;
+}
+.container-fluid{
+    /* background-color: bisque; */
+    /* height: 150px; */
+}
+.row{
+    /* background-color: brown; */
+    margin: 5px;
+}
+.col{
+    /* background-color: cadetblue; */
+    margin: ;
+}
