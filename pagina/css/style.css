@@ -1,0 +1,17 @@
+
+.container{
+    background-color: brown;
+    height: 100px;
+}
+.container-fluid{
+    /* background-color: antiquewhite;
+    height: 100px; */
+}
+.row{
+    /* background-color: blueviolet; */
+    margin: 5px;
+}
+.col{
+    /* background-color: aquamarine; */
+    margin: 5px;
+}
